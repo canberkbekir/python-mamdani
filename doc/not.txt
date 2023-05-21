@@ -1,0 +1,52 @@
+•	Frekans, Hertz cinsinden  ======>Düşük, Orta, Yüksek
+•	Saldırı açısı, derece cinsinden ======>Düşük, Orta, Yüksek
+•	Metre cinsinden akor uzunluğu ======>Düşük, Orta, Yüksek
+•	Serbest akış hızı, metre/saniye cinsinden. ======>Düşük, Orta, Yüksek
+•	Yer değiştirme kalınlığı, metre cinsinden. ======>Düşük, Orta, Yüksek
+
+
+•   Ses basıncı seviyesi. ======>Düşük, Yüksek
+
+
+
+FREKANS = MAX 20000 MID-MAX 13,400 MID-MIN 6800 MİN 200 a
+SALDIRI AÇICISI = MAX 22.2 MID-MAX 14.8 MID-MIN 7.4  MİN 0.0
+AKOR= MAX 0.3048 MID-MAX 0.2116 MID-MIN 0.1185  MİN 0.0254  
+AKIŞ HIZI= MAX 71.3 MID-MAX 58.1 MID-MIN 44.9  MİN 31.7
+YER DEĞİŞTİRME= MAX 0.0584113 MID-MAX 0.0390 MID-MIN 0.0197  MİN 0.000400682
+
+SES BASINCI = MAX 140.987 MID-MAX 128.4514 MID-MIN 115.916 MİN 103.38
+
+
+
+Frekans için
+ 20000 ile 10000 arası MAX
+ 14000 ile 4800 arası MİD
+ 1 ile 7000 arası MİN
+Saldırı açısı için
+ 23 ile 10 arası MAX
+ 15 ile 6 arası MİD
+ 8 ile 0 arası MİN
+Akor açısı için
+ 0.308 ile 0.2 arası MAX
+ 0.23 ile 0.09 arası MİD
+ 0.12 ile 0.01 arası MİN
+Akış Hızı açısı için
+ 80 ile 53 arası MAX
+ 60 ile 40 arası MİD
+ 45 ile 28 arası MİN
+Yer Değiştirme açısı için
+ 0.06 ile 0.03 arası MAX
+ 0.042 ile 0.015 arası MİD
+ 0.025 ile 0.00030682 arası MİN
+Ses Basıncı açısı için
+ 143 ile 126 arası MAX
+ 130 ile 112 arası MİD
+ 120 ile 100 arası MİN
+
+--------------------------
+YAPTIKLARIMIZ
+Ilk başta max,mid-max,mid-min ve min değerlerini bulduk
+-BOXPLOT
+-GRAFİK
+
